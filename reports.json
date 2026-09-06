@@ -1,0 +1,20 @@
+{
+  "schema_version": "dmmis.hosted_daily_reports.v1",
+  "is_synthetic": false,
+  "reports": [
+    {
+      "date": "2026-09-06",
+      "is_synthetic": false,
+      "dmmis": {
+        "path": "/daily/2026-09-06/dmmis/",
+        "bytes": 32067,
+        "sha256": "a93545d56854914b8fcd15ac2b50416d37eb9894d358a2eceda9249be3e24a21"
+      },
+      "signal": {
+        "path": "/daily/2026-09-06/signal/",
+        "bytes": 6431,
+        "sha256": "16895f37ac4e198b972b8d3df47acacc435734a178541090defc1328a51deab4"
+      }
+    }
+  ]
+}
