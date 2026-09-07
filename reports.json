@@ -15,6 +15,20 @@
         "bytes": 6431,
         "sha256": "16895f37ac4e198b972b8d3df47acacc435734a178541090defc1328a51deab4"
       }
+    },
+    {
+      "date": "2026-09-07",
+      "is_synthetic": false,
+      "dmmis": {
+        "path": "/daily/2026-09-07/dmmis/",
+        "bytes": 30420,
+        "sha256": "b24f66c7e790f3ca889bf690e5507e9499dbf1164fdd2eddd54950dad2094041"
+      },
+      "signal": {
+        "path": "/daily/2026-09-07/signal/",
+        "bytes": 6431,
+        "sha256": "0c2eece8cef48e93a609c3194a0d87cccfe309b03284ece078c3aef55d068b6a"
+      }
     }
   ]
 }
